@@ -1,0 +1,1 @@
+IF EXIST bin/Main.class (java -cp bin Main)

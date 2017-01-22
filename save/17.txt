@@ -1,0 +1,3 @@
+1
+shoot_down move_left move_up shoot_up shoot_right shoot_left move_left move_up move_right shoot_up shoot_left shoot_right shoot_right move_down move_right move_left shoot_left move_down 
+move_left move_right shoot_down shoot_right move_left move_right shoot_down move_up move_left move_up move_left move_right move_up move_down move_left move_right move_down move_left 
